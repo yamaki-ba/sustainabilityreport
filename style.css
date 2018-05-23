@@ -227,7 +227,7 @@ fieldset[disabled] .btn-primary.active {
 
 section.slider{
     color: #ffffff;
-    background: #52AD81;
+    background: #8FBC8F;
     margin: 40px 0;
     padding: 40px 0;
 }
@@ -426,7 +426,7 @@ a.list-group-item .list-group-item-heading{
 }
 
 .features .col-lg-4:first-child .icon-stack-base{
-    color:#52AD81;
+    color:#8FBC8F;
 }
 .features .col-lg-4:nth-child(2) .icon-stack-base{
     color:#CD5A48;
@@ -447,7 +447,7 @@ div.feature-box div.feature-box-icon {
     -webkit-border-radius: 35px;
     background: #ffffff;
     border-radius: 35px;
-    color: #52AD81;
+    color: #8FBC8F;
     display: inline-block;
     float: left;
     height: 35px;
