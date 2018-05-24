@@ -275,7 +275,7 @@ section.gray h3{
 }
 
 section.about{
-    background: url(images/bg.jpg);
+    background: #ffffff;
     min-height: 400px;
     position: relative;
 }
