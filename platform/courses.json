@@ -1,16 +1,86 @@
 [
   {
     "enabled": true,
+    "_id": "5b472f75559f742715150728",
+    "courseId": "6",
+    "courseName": "Environment, Sustainability and Governance (ESG) Basics",
+    "description": "The periodic table is a tabular arrangement of the chemical elements, ordered by their atomic number, electron configuration, and recurring chemical properties, whose structure shows periodic trends.",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 1,
+    "createdAt": "2018-07-12T10:37:41.053Z",
+    "__v": 0,
+    "updateAt": "2018-07-17T02:11:43.552Z"
+  },
+  {
+    "enabled": true,
+    "_id": "5b472f75559f74271515070a",
+    "courseId": "3",
+    "courseName": "Sustainability Reporting Frameworks",
+    "description": "In thermodynamics, heat is a type of energy transfer in which energy flows from a warmer substance or object to a colder one.",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 2,
+    "createdAt": "2018-07-12T10:37:41.007Z",
+    "__v": 0,
+    "updateAt": "2018-07-17T02:11:43.552Z",
+    "lessons": [
+      {
+        "enabled": false,
+        "_id": "5b472f75559f74271515071f",
+        "lessonId": "3.1",
+        "lessonName": "Heat Capacity",
+        "courseId": "3",
+        "lessonDescription": "Different substances are affected to different magnitudes by the addition of heat. When a given amount of heat is added to different substances, their temperatures increase by different amounts. This proportionality constant between the heat Q that the object absorbs or loses and the resulting temperature change T of the object is known as the heat capacity C of an object.",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 8,
+        "createdAt": "2018-07-12T10:37:41.045Z",
+        "__v": 0,
+        "contents": []
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f74271515072a",
+        "lessonId": "3.2",
+        "lessonName": "Specific Heat Capacity",
+        "lessonDescription": "In the Ideal Gas Model, the intensive properties cv and cp are defined for pure, simple compressible substances as partial derivatives of the internal energy u(T, v) and enthalpy h(T, p), respectively",
+        "courseId": "3",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 9,
+        "createdAt": "2018-07-12T10:37:41.053Z",
+        "__v": 0,
+        "contents": []
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f742715150734",
+        "lessonId": "3.3",
+        "lessonName": "Latent Heat of Vaporization",
+        "lessonDescription": "In general, when a material changes phase from solid to liquid, or from liquid to gas a certain amount of energy is involved in this change of phase. In case of liquid to gas phase change, this amount of energy is known as the enthalpy of vaporization, (symbol ∆Hvap; unit: J) also known as the (latent) heat of vaporization or heat of evaporation. Latent heat is the amount of heat added to or removed from a substance to produce a change in phase.",
+        "courseId": "3",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 10,
+        "createdAt": "2018-07-12T10:37:41.059Z",
+        "__v": 0,
+        "contents": []
+      }
+    ]
+  },
+  {
+    "enabled": true,
     "_id": "5b472f75559f742715150727",
     "courseId": "1",
-    "courseName": "GRI",
+    "courseName": "Global Reporting Initiative (GRI)",
     "description": "Sustainability reporting enables organizations to consider their impacts of wide range of sustainability issues, enabling them to be more transparent about the risks and opportunities they face.",
     "introMediaURL": "https://www.youtube.com/watch?v=RDe8Kkh1BrU",
     "introMediaType": "video",
-    "order": 1,
+    "order": 3,
     "createdAt": "2018-07-12T10:37:41.052Z",
     "__v": 0,
-    "updateAt": "2018-07-16T18:24:01.413Z",
+    "updateAt": "2018-07-17T02:11:43.552Z",
     "lessons": [
       {
         "enabled": true,
@@ -24,7 +94,7 @@
         "order": 1,
         "createdAt": "2018-07-12T10:37:41.012Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": [
           {
             "contentList": [],
@@ -38,7 +108,7 @@
             "order": 1,
             "createdAt": "2018-07-12T10:37:41.040Z",
             "__v": 0,
-            "updateAt": "2018-07-16T18:24:01.451Z"
+            "updateAt": "2018-07-17T02:11:43.624Z"
           }
         ]
       },
@@ -54,7 +124,7 @@
         "order": 2,
         "createdAt": "2018-07-12T10:37:41.025Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": [
           {
             "contentList": [
@@ -70,23 +140,7 @@
             "order": 1,
             "createdAt": "2018-07-12T10:37:41.046Z",
             "__v": 0,
-            "updateAt": "2018-07-16T18:24:01.450Z"
-          },
-          {
-            "contentList": [
-              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-206-anti-competitive-behavior-2016.pdf"
-            ],
-            "enabled": true,
-            "_id": "5b4cdd3021636160b5335b15",
-            "contentTitle": "gri-206-anti-competitive-behavior-2016.pdf",
-            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
-            "content": null,
-            "contentType": "url",
-            "lessonId": "1.2",
-            "order": 1,
-            "createdAt": "2018-07-16T18:00:16.421Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
-            "__v": 0
+            "updateAt": "2018-07-17T02:11:43.623Z"
           },
           {
             "contentList": [
@@ -101,7 +155,7 @@
             "lessonId": "1.2",
             "order": 2,
             "createdAt": "2018-07-16T18:00:16.413Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.624Z",
             "__v": 0
           },
           {
@@ -117,7 +171,7 @@
             "lessonId": "1.2",
             "order": 3,
             "createdAt": "2018-07-16T18:00:16.418Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:11:43.614Z",
             "__v": 0
           },
           {
@@ -133,7 +187,7 @@
             "lessonId": "1.2",
             "order": 4,
             "createdAt": "2018-07-16T18:00:16.418Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:11:43.623Z",
             "__v": 0
           },
           {
@@ -149,7 +203,7 @@
             "lessonId": "1.2",
             "order": 5,
             "createdAt": "2018-07-16T18:00:16.420Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.624Z",
             "__v": 0
           },
           {
@@ -165,7 +219,7 @@
             "lessonId": "1.2",
             "order": 6,
             "createdAt": "2018-07-16T18:00:16.420Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.614Z",
             "__v": 0
           },
           {
@@ -181,7 +235,7 @@
             "lessonId": "1.2",
             "order": 7,
             "createdAt": "2018-07-16T18:00:16.421Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.624Z",
             "__v": 0
           },
           {
@@ -197,7 +251,23 @@
             "lessonId": "1.2",
             "order": 8,
             "createdAt": "2018-07-16T18:00:16.421Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:11:43.614Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-206-anti-competitive-behavior-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b15",
+            "contentTitle": "gri-206-anti-competitive-behavior-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 9,
+            "createdAt": "2018-07-16T18:00:16.421Z",
+            "updateAt": "2018-07-17T02:11:43.623Z",
             "__v": 0
           },
           {
@@ -213,7 +283,7 @@
             "lessonId": "1.2",
             "order": 11,
             "createdAt": "2018-07-16T18:00:16.422Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:11:43.624Z",
             "__v": 0
           },
           {
@@ -229,7 +299,7 @@
             "lessonId": "1.2",
             "order": 12,
             "createdAt": "2018-07-16T18:00:16.422Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.614Z",
             "__v": 0
           },
           {
@@ -245,7 +315,7 @@
             "lessonId": "1.2",
             "order": 13,
             "createdAt": "2018-07-16T18:00:16.422Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.624Z",
             "__v": 0
           },
           {
@@ -261,7 +331,7 @@
             "lessonId": "1.2",
             "order": 14,
             "createdAt": "2018-07-16T18:00:16.422Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.614Z",
             "__v": 0
           },
           {
@@ -277,7 +347,7 @@
             "lessonId": "1.2",
             "order": 15,
             "createdAt": "2018-07-16T18:00:16.423Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:11:43.623Z",
             "__v": 0
           },
           {
@@ -293,7 +363,7 @@
             "lessonId": "1.2",
             "order": 16,
             "createdAt": "2018-07-16T18:00:16.423Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:11:43.624Z",
             "__v": 0
           },
           {
@@ -309,7 +379,7 @@
             "lessonId": "1.2",
             "order": 17,
             "createdAt": "2018-07-16T18:00:16.424Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:11:43.614Z",
             "__v": 0
           },
           {
@@ -326,38 +396,342 @@
             "order": 18,
             "createdAt": "2018-07-12T10:37:41.055Z",
             "__v": 0,
-            "updateAt": "2018-07-16T18:24:01.450Z"
+            "updateAt": "2018-07-17T02:11:43.624Z"
           },
           {
             "contentList": [
-              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-401-employment-2016.pdf"
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-402-labor-management-relations-2016.pdf"
             ],
             "enabled": true,
             "_id": "5b4cdd3021636160b5335b1d",
-            "contentTitle": "GRI 401 Employment",
+            "contentTitle": "gri-402-labor-management-relations-2016",
             "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
             "content": null,
             "contentType": "url",
             "lessonId": "1.2",
-            "order": 18,
+            "order": 19,
             "createdAt": "2018-07-16T18:00:16.424Z",
-            "updateAt": "2018-07-16T18:24:01.450Z",
+            "updateAt": "2018-07-17T02:00:16.387Z",
             "__v": 0
           },
           {
             "contentList": [
-              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-401-employment-2016.pdf"
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-402-labor-management-relations-2016.pdf"
             ],
             "enabled": true,
-            "_id": "5b4cdd3021636160b5335b1e",
-            "contentTitle": "GRI 401 Employment",
+            "_id": "5b4d505f21636160b5335b25",
+            "contentTitle": "gri-402-labor-management-relations-2016",
             "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
             "content": null,
             "contentType": "url",
             "lessonId": "1.2",
-            "order": 18,
+            "order": 19,
+            "createdAt": "2018-07-17T02:11:43.576Z",
+            "updateAt": "2018-07-17T02:11:43.576Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-403-occupational-health-and-safety-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b26",
+            "contentTitle": "gri-403-occupational-health-and-safety-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 20,
+            "createdAt": "2018-07-17T02:11:43.577Z",
+            "updateAt": "2018-07-17T02:11:43.577Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-404-training-and-education-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b27",
+            "contentTitle": "gri-404-training-and-education-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 21,
+            "createdAt": "2018-07-17T02:11:43.578Z",
+            "updateAt": "2018-07-17T02:11:43.578Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-405-diversity-and-equal-opportunity-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b28",
+            "contentTitle": "gri-405-diversity-and-equal-opportunity-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 22,
+            "createdAt": "2018-07-17T02:11:43.578Z",
+            "updateAt": "2018-07-17T02:11:43.578Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-406-non-discrimination-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b29",
+            "contentTitle": "gri-406-non-discrimination-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 23,
+            "createdAt": "2018-07-17T02:11:43.578Z",
+            "updateAt": "2018-07-17T02:11:43.578Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-407-freedom-of-association-and-collective-bargaining-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b2a",
+            "contentTitle": "gri-407-freedom-of-association-and-collective-bargaining-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 24,
+            "createdAt": "2018-07-17T02:11:43.579Z",
+            "updateAt": "2018-07-17T02:11:43.579Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-408-child-labor-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b2b",
+            "contentTitle": "gri-408-child-labor-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 25,
+            "createdAt": "2018-07-17T02:11:43.579Z",
+            "updateAt": "2018-07-17T02:11:43.579Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-409-forced-or-compulsory-labor-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b2c",
+            "contentTitle": "gri-409-forced-or-compulsory-labor-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 26,
+            "createdAt": "2018-07-17T02:11:43.579Z",
+            "updateAt": "2018-07-17T02:11:43.579Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-410-security-practices-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b2d",
+            "contentTitle": "gri-410-security-practices-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 27,
+            "createdAt": "2018-07-17T02:11:43.580Z",
+            "updateAt": "2018-07-17T02:11:43.580Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-411-rights-of-indigenous-peoples-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b2e",
+            "contentTitle": "gri-411-rights-of-indigenous-peoples-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 28,
+            "createdAt": "2018-07-17T02:11:43.580Z",
+            "updateAt": "2018-07-17T02:11:43.580Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-412-human-rights-assessment-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b2f",
+            "contentTitle": "gri-412-human-rights-assessment-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 29,
+            "createdAt": "2018-07-17T02:11:43.580Z",
+            "updateAt": "2018-07-17T02:11:43.580Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-413-local-communities-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b30",
+            "contentTitle": "gri-413-local-communities-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 30,
+            "createdAt": "2018-07-17T02:11:43.580Z",
+            "updateAt": "2018-07-17T02:11:43.580Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-414-supplier-social-assessment-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b31",
+            "contentTitle": "gri-414-supplier-social-assessment-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 31,
+            "createdAt": "2018-07-17T02:11:43.581Z",
+            "updateAt": "2018-07-17T02:11:43.581Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-415-public-policy-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b32",
+            "contentTitle": "gri-415-public-policy-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 32,
+            "createdAt": "2018-07-17T02:11:43.581Z",
+            "updateAt": "2018-07-17T02:11:43.582Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-416-customer-health-and-safety-2016.pdf"
+            ],
+            "enabled": false,
+            "_id": "5b4cdd3021636160b5335b1e",
+            "contentTitle": "gri-416-customer-health-and-safety-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 33,
             "createdAt": "2018-07-16T18:00:16.424Z",
-            "updateAt": "2018-07-16T18:24:01.451Z",
+            "updateAt": "2018-07-17T02:00:16.410Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-416-customer-health-and-safety-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b33",
+            "contentTitle": "gri-416-customer-health-and-safety-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 33,
+            "createdAt": "2018-07-17T02:11:43.582Z",
+            "updateAt": "2018-07-17T02:11:43.582Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-417-marketing-and-labeling-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b34",
+            "contentTitle": "gri-417-marketing-and-labeling-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 34,
+            "createdAt": "2018-07-17T02:11:43.582Z",
+            "updateAt": "2018-07-17T02:11:43.582Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-418-customer-privacy-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b35",
+            "contentTitle": "gri-418-customer-privacy-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 35,
+            "createdAt": "2018-07-17T02:11:43.583Z",
+            "updateAt": "2018-07-17T02:11:43.583Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/griI-419-socioeconomic-compliance-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b36",
+            "contentTitle": "griI-419-socioeconomic-compliance-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 36,
+            "createdAt": "2018-07-17T02:11:43.585Z",
+            "updateAt": "2018-07-17T02:11:43.585Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-standards-glossary-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4d505f21636160b5335b37",
+            "contentTitle": "gri-standards-glossary-2016",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 37,
+            "createdAt": "2018-07-17T02:11:43.585Z",
+            "updateAt": "2018-07-17T02:11:43.585Z",
             "__v": 0
           }
         ]
@@ -374,7 +748,7 @@
         "order": 3,
         "createdAt": "2018-07-12T10:37:41.045Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": [
           {
             "contentList": [],
@@ -388,7 +762,7 @@
             "order": 1,
             "createdAt": "2018-07-12T10:37:41.047Z",
             "__v": 0,
-            "updateAt": "2018-07-16T18:24:01.450Z"
+            "updateAt": "2018-07-17T02:11:43.623Z"
           },
           {
             "contentList": [],
@@ -402,7 +776,7 @@
             "order": 2,
             "createdAt": "2018-07-12T10:37:41.018Z",
             "__v": 0,
-            "updateAt": "2018-07-16T18:24:01.442Z"
+            "updateAt": "2018-07-17T02:11:43.623Z"
           },
           {
             "contentList": [
@@ -419,7 +793,7 @@
             "createdAt": "2018-07-12T10:37:41.054Z",
             "__v": 0,
             "content": null,
-            "updateAt": "2018-07-16T18:24:01.443Z"
+            "updateAt": "2018-07-17T02:11:43.613Z"
           }
         ]
       },
@@ -435,7 +809,7 @@
         "order": 4,
         "createdAt": "2018-07-12T10:37:41.053Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": [
           {
             "contentList": [
@@ -561,16 +935,29 @@
   },
   {
     "enabled": true,
+    "_id": "5b472f75559f742715150713",
+    "courseId": "4",
+    "courseName": "UN Global Compact",
+    "description": "The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity. ",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 4,
+    "createdAt": "2018-07-12T10:37:41.021Z",
+    "__v": 0,
+    "updateAt": "2018-07-17T02:11:43.552Z"
+  },
+  {
+    "enabled": true,
     "_id": "5b472f75559f742715150732",
     "courseId": "2",
-    "courseName": "Light",
+    "courseName": "ESG Investing",
     "description": "Light is electromagnetic radiation within a certain portion of the electromagnetic spectrum.",
     "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
     "introMediaType": "video",
-    "order": 2,
+    "order": 5,
     "createdAt": "2018-07-12T10:37:41.057Z",
     "__v": 0,
-    "updateAt": "2018-07-16T18:24:01.413Z",
+    "updateAt": "2018-07-17T02:11:43.552Z",
     "lessons": [
       {
         "enabled": true,
@@ -584,7 +971,7 @@
         "order": 11,
         "createdAt": "2018-07-12T10:37:41.017Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": []
       },
       {
@@ -599,7 +986,7 @@
         "order": 12,
         "createdAt": "2018-07-12T10:37:41.028Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": []
       },
       {
@@ -614,7 +1001,7 @@
         "order": 13,
         "createdAt": "2018-07-12T10:37:41.046Z",
         "__v": 0,
-        "updateAt": "2018-07-16T18:24:01.426Z",
+        "updateAt": "2018-07-17T02:11:43.568Z",
         "contents": []
       },
       {
@@ -648,95 +1035,16 @@
     ]
   },
   {
-    "enabled": false,
-    "_id": "5b472f75559f74271515070a",
-    "courseId": "3",
-    "courseName": "Heat",
-    "description": "In thermodynamics, heat is a type of energy transfer in which energy flows from a warmer substance or object to a colder one.",
-    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
-    "introMediaType": "video",
-    "order": 3,
-    "createdAt": "2018-07-12T10:37:41.007Z",
-    "__v": 0,
-    "lessons": [
-      {
-        "enabled": false,
-        "_id": "5b472f75559f74271515071f",
-        "lessonId": "3.1",
-        "lessonName": "Heat Capacity",
-        "courseId": "3",
-        "lessonDescription": "Different substances are affected to different magnitudes by the addition of heat. When a given amount of heat is added to different substances, their temperatures increase by different amounts. This proportionality constant between the heat Q that the object absorbs or loses and the resulting temperature change T of the object is known as the heat capacity C of an object.",
-        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
-        "introMediaType": "video",
-        "order": 8,
-        "createdAt": "2018-07-12T10:37:41.045Z",
-        "__v": 0,
-        "contents": []
-      },
-      {
-        "enabled": false,
-        "_id": "5b472f75559f74271515072a",
-        "lessonId": "3.2",
-        "lessonName": "Specific Heat Capacity",
-        "lessonDescription": "In the Ideal Gas Model, the intensive properties cv and cp are defined for pure, simple compressible substances as partial derivatives of the internal energy u(T, v) and enthalpy h(T, p), respectively",
-        "courseId": "3",
-        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
-        "introMediaType": "video",
-        "order": 9,
-        "createdAt": "2018-07-12T10:37:41.053Z",
-        "__v": 0,
-        "contents": []
-      },
-      {
-        "enabled": false,
-        "_id": "5b472f75559f742715150734",
-        "lessonId": "3.3",
-        "lessonName": "Latent Heat of Vaporization",
-        "lessonDescription": "In general, when a material changes phase from solid to liquid, or from liquid to gas a certain amount of energy is involved in this change of phase. In case of liquid to gas phase change, this amount of energy is known as the enthalpy of vaporization, (symbol ∆Hvap; unit: J) also known as the (latent) heat of vaporization or heat of evaporation. Latent heat is the amount of heat added to or removed from a substance to produce a change in phase.",
-        "courseId": "3",
-        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
-        "introMediaType": "video",
-        "order": 10,
-        "createdAt": "2018-07-12T10:37:41.059Z",
-        "__v": 0,
-        "contents": []
-      }
-    ]
-  },
-  {
-    "enabled": false,
-    "_id": "5b472f75559f742715150713",
-    "courseId": "4",
-    "courseName": "Atmosphere of Earth",
-    "description": "The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity. ",
-    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
-    "introMediaType": "video",
-    "order": 4,
-    "createdAt": "2018-07-12T10:37:41.021Z",
-    "__v": 0
-  },
-  {
-    "enabled": false,
+    "enabled": true,
     "_id": "5b472f75559f74271515071d",
     "courseId": "5",
     "courseName": "Physical geography",
     "description": "Physical geography (also known as geosystems or physiography) is one of the two major sub-fields of geography",
     "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
     "introMediaType": "video",
-    "order": 5,
-    "createdAt": "2018-07-12T10:37:41.044Z",
-    "__v": 0
-  },
-  {
-    "enabled": false,
-    "_id": "5b472f75559f742715150728",
-    "courseId": "6",
-    "courseName": "Periodic table",
-    "description": "The periodic table is a tabular arrangement of the chemical elements, ordered by their atomic number, electron configuration, and recurring chemical properties, whose structure shows periodic trends.",
-    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
-    "introMediaType": "video",
     "order": 6,
-    "createdAt": "2018-07-12T10:37:41.053Z",
-    "__v": 0
+    "createdAt": "2018-07-12T10:37:41.044Z",
+    "__v": 0,
+    "updateAt": "2018-07-17T02:11:43.552Z"
   }
 ]
