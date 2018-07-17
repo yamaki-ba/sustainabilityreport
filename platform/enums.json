@@ -1,0 +1,31 @@
+[
+  {
+    "data": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "currency": "AED"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG",
+        "currency": "SGD Singapore"
+      },
+      {
+        "name": "United States of America",
+        "code": "US",
+        "currency": "USD"
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "currency": "INR"
+      }
+    ],
+    "enabled": true,
+    "_id": "5b472f75559f742715150710",
+    "name": "country",
+    "createdAt": "2018-07-12T10:37:41.019Z",
+    "__v": 0
+  }
+]
