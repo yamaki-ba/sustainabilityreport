@@ -1,0 +1,254 @@
+[
+  {
+    "enabled": false,
+    "_id": "5b472f74559f742715150706",
+    "code": "HR",
+    "departmentName": "Human Resources",
+    "updateAt": "2018-07-12T10:37:40.857Z",
+    "createdAt": "2018-07-12T10:37:40.948Z",
+    "__v": 0
+  },
+  {
+    "enabled": false,
+    "_id": "5b472f74559f742715150707",
+    "code": "MARKETING",
+    "departmentName": "Marketing",
+    "updateAt": "2018-07-12T10:37:40.857Z",
+    "createdAt": "2018-07-12T10:37:40.948Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae0",
+    "code": "acct",
+    "departmentName": "Accounting",
+    "createdAt": "2018-07-13T03:59:29.490Z",
+    "updateAt": "2018-07-13T03:59:29.490Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae1",
+    "code": "admn",
+    "departmentName": "Administrative",
+    "createdAt": "2018-07-13T03:59:29.491Z",
+    "updateAt": "2018-07-13T03:59:29.491Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae2",
+    "code": "cre",
+    "departmentName": "Arts and Design",
+    "createdAt": "2018-07-13T03:59:29.491Z",
+    "updateAt": "2018-07-13T03:59:29.491Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae3",
+    "code": "bd",
+    "departmentName": "Business Development",
+    "createdAt": "2018-07-13T03:59:29.492Z",
+    "updateAt": "2018-07-13T03:59:29.492Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae4",
+    "code": "css",
+    "departmentName": "Community & Social Services",
+    "createdAt": "2018-07-13T03:59:29.492Z",
+    "updateAt": "2018-07-13T03:59:29.492Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae5",
+    "code": "cnsl",
+    "departmentName": "Consulting",
+    "createdAt": "2018-07-13T03:59:29.492Z",
+    "updateAt": "2018-07-13T03:59:29.492Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae6",
+    "code": "edu",
+    "departmentName": "Education",
+    "createdAt": "2018-07-13T03:59:29.493Z",
+    "updateAt": "2018-07-13T03:59:29.493Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae7",
+    "code": "eng",
+    "departmentName": "Engineering",
+    "createdAt": "2018-07-13T03:59:29.494Z",
+    "updateAt": "2018-07-13T03:59:29.494Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae8",
+    "code": "ent",
+    "departmentName": "Entrepreneurship",
+    "createdAt": "2018-07-13T03:59:29.495Z",
+    "updateAt": "2018-07-13T03:59:29.495Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150ae9",
+    "code": "finc",
+    "departmentName": "Finance",
+    "createdAt": "2018-07-13T03:59:29.495Z",
+    "updateAt": "2018-07-13T03:59:29.495Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150aea",
+    "code": "med",
+    "departmentName": "Healthcare Services",
+    "createdAt": "2018-07-13T03:59:29.495Z",
+    "updateAt": "2018-07-13T03:59:29.495Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150aeb",
+    "code": "hr",
+    "departmentName": "Human Resources",
+    "createdAt": "2018-07-13T03:59:29.496Z",
+    "updateAt": "2018-07-13T03:59:29.496Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150aec",
+    "code": "it",
+    "departmentName": "Information Technology",
+    "createdAt": "2018-07-13T03:59:29.496Z",
+    "updateAt": "2018-07-13T03:59:29.496Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150aed",
+    "code": "lgl",
+    "departmentName": "Legal",
+    "createdAt": "2018-07-13T03:59:29.496Z",
+    "updateAt": "2018-07-13T03:59:29.496Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150aee",
+    "code": "mktg",
+    "departmentName": "Marketing",
+    "createdAt": "2018-07-13T03:59:29.497Z",
+    "updateAt": "2018-07-13T03:59:29.497Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150aef",
+    "code": "pr",
+    "departmentName": "Media & Communications",
+    "createdAt": "2018-07-13T03:59:29.497Z",
+    "updateAt": "2018-07-13T03:59:29.497Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af0",
+    "code": "mps",
+    "departmentName": "Military & Protective Services",
+    "createdAt": "2018-07-13T03:59:29.497Z",
+    "updateAt": "2018-07-13T03:59:29.497Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af1",
+    "code": "ops",
+    "departmentName": "Operations",
+    "createdAt": "2018-07-13T03:59:29.497Z",
+    "updateAt": "2018-07-13T03:59:29.497Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af2",
+    "code": "prod",
+    "departmentName": "Product Management",
+    "createdAt": "2018-07-13T03:59:29.498Z",
+    "updateAt": "2018-07-13T03:59:29.498Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af3",
+    "code": "ppm",
+    "departmentName": "Program & Product Management",
+    "createdAt": "2018-07-13T03:59:29.498Z",
+    "updateAt": "2018-07-13T03:59:29.498Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af4",
+    "code": "buy",
+    "departmentName": "Purchasing",
+    "createdAt": "2018-07-13T03:59:29.498Z",
+    "updateAt": "2018-07-13T03:59:29.498Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af5",
+    "code": "qa",
+    "departmentName": "Quality Assurance",
+    "createdAt": "2018-07-13T03:59:29.499Z",
+    "updateAt": "2018-07-13T03:59:29.499Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af6",
+    "code": "re",
+    "departmentName": "Real Estate",
+    "createdAt": "2018-07-13T03:59:29.499Z",
+    "updateAt": "2018-07-13T03:59:29.499Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af7",
+    "code": "acad",
+    "departmentName": "Rersearch",
+    "createdAt": "2018-07-13T03:59:29.499Z",
+    "updateAt": "2018-07-13T03:59:29.499Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af8",
+    "code": "sale",
+    "departmentName": "Sales",
+    "createdAt": "2018-07-13T03:59:29.501Z",
+    "updateAt": "2018-07-13T03:59:29.501Z",
+    "__v": 0
+  },
+  {
+    "enabled": true,
+    "_id": "5b4823a1559f742715150af9",
+    "code": "supp",
+    "departmentName": "Support",
+    "createdAt": "2018-07-13T03:59:29.502Z",
+    "updateAt": "2018-07-13T03:59:29.502Z",
+    "__v": 0
+  }
+]
