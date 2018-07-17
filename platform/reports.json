@@ -1,0 +1,3451 @@
+[
+  {
+    "features": [
+      "Describe the main characteristics of water, air and soil pollution",
+      "Describe the main types of pollution.",
+      "Describe the sources of pollution and the way pollutants reach the environment"
+    ],
+    "enabled": true,
+    "_id": "5b472f75559f742715150731",
+    "reportName": "GRI",
+    "description": "​The GRI Sustainability Reporting Standards (GRI Standards) are the first and most widely adopted global standards for sustainability reporting. Since GRI's inception in 1997, we have transformed it from a niche practice to one now adopted by a growing majority of organizations. In fact, 93% of the world’s largest 250 corporations report on their sustainability performance. The practice of disclosing sustainability information inspires accountability, helps identify and manage risks, and enables organizations to seize new opportunities. Reporting with the GRI Standards supports companies, public and private, large and small, protect the environment and improve society, while at the same time thriving economically by improving governance and stakeholder relations, enhancing reputations and building trust. \n      We work with the largest companies in the world as a force for positive change – companies with revenues larger than the GDPs of entire countries and supply chains that stretch the globe. As a result, the impact of our work on social well-being, through better jobs, less environmental damage, access to clean water, less child and forced labor, and gender equality has enormous scale.",
+    "createdAt": "2018-07-12T10:37:41.057Z",
+    "__v": 0,
+    "updateAt": "2018-07-16T05:39:56.250Z",
+    "standards": [
+      {
+        "enabled": true,
+        "_id": "5b472f75559f742715150738",
+        "standardName": "General Disclosures",
+        "order": 1,
+        "reportTemplateId": "5b472f75559f742715150731",
+        "createdAt": "2018-07-12T10:37:41.214Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T05:39:56.252Z",
+        "sections": [
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f742715150744",
+            "sectionName": "Organizational Profile",
+            "order": 1,
+            "standardId": "5b472f75559f742715150738",
+            "createdAt": "2018-07-12T10:37:41.250Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.262Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921",
+                  "5b472f75559f742715150723",
+                  "5b472f75559f74271515072c"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507d2",
+                "disclosureName": "Name of the organization",
+                "l1": "102",
+                "l2": "1",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f742715150744",
+                "createdAt": "2018-07-12T10:37:41.454Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515092e",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f7427151507d2",
+                    "createdAt": "2018-07-12T10:37:41.824Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4accd8ced0944e27ff0fbf",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Activities, Brand, Products and Services",
+                "l1": "102",
+                "l2": "2",
+                "l3": "a",
+                "l4": null,
+                "order": 2,
+                "createdAt": "2018-07-15T04:26:00.678Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4accd8ced0944e27ff0fc0",
+                    "disclosureId": "5b4accd8ced0944e27ff0fbf",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-15T04:26:00.764Z",
+                    "updateAt": "2018-07-16T05:39:56.426Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507d4",
+                "disclosureName": "Activities, brands, products, and services",
+                "l1": "102",
+                "l2": "2",
+                "l3": "b",
+                "l4": "i",
+                "order": 3,
+                "sectionId": "5b472f75559f742715150744",
+                "createdAt": "2018-07-12T10:37:41.455Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515085b",
+                    "question": "Primary brands, products, and services",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f7427151507d4",
+                    "createdAt": "2018-07-12T10:37:41.576Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4acb86ced0944e27ff0fbe",
+                    "disclosureId": "5b472f75559f7427151507d4",
+                    "question": "Explanation of any products or services that are banned in certain markets",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-15T04:20:22.597Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4ad0afced0944e27ff0fc3",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Location of Headquarters",
+                "l1": "102",
+                "l2": "3",
+                "l3": "a",
+                "l4": null,
+                "order": 4,
+                "createdAt": "2018-07-15T04:42:23.409Z",
+                "updateAt": "2018-07-16T05:39:56.341Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4ad0afced0944e27ff0fc4",
+                    "disclosureId": "5b4ad0afced0944e27ff0fc3",
+                    "question": "Location of the organization’s headquarters",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-15T04:42:23.439Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507d5",
+                "disclosureName": "Location of operations",
+                "l1": "102",
+                "l2": "4",
+                "l3": "a",
+                "order": 5,
+                "sectionId": "5b472f75559f742715150744",
+                "createdAt": "2018-07-12T10:37:41.455Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4acfa5ced0944e27ff0fc1",
+                    "disclosureId": "5b472f75559f7427151507d5",
+                    "question": "Number of countries where the organization operates.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T04:37:57.480Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4acfa5ced0944e27ff0fc2",
+                    "disclosureId": "5b472f75559f7427151507d5",
+                    "question": "Names of countries where it has significant operations and/or that are relevant to the topics covered in the report",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-15T04:37:57.481Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507d7",
+                "disclosureName": "Ownership and legal form",
+                "l1": "102",
+                "l2": "5",
+                "l3": "a",
+                "order": 6,
+                "sectionId": "5b472f75559f742715150744",
+                "createdAt": "2018-07-12T10:37:41.456Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515092f",
+                    "question": "Nature of ownership and legal form",
+                    "answerType": "LAT_LONG",
+                    "order": "a",
+                    "validationCode": "LL",
+                    "disclosureId": "5b472f75559f7427151507d7",
+                    "createdAt": "2018-07-12T10:37:41.824Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507d9",
+                "disclosureName": "Markets Served",
+                "l1": "102",
+                "l2": "6",
+                "l3": "a",
+                "l4": "ii",
+                "order": 7,
+                "sectionId": "5b472f75559f742715150744",
+                "createdAt": "2018-07-16T03:32:58.702Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515085c",
+                    "question": "Markets served including; geographic locations where products and services are offered",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f7427151507d9",
+                    "createdAt": "2018-07-12T10:37:41.577Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba48c",
+                    "disclosureId": "5b472f75559f7427151507d9",
+                    "question": "Markets served including; sectors served",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-16T03:32:58.776Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4c11ea1cedb4591e9ba484",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Markets Served",
+                "l1": "102",
+                "l2": "6",
+                "l3": "a",
+                "l4": "iii",
+                "order": 7,
+                "createdAt": "2018-07-16T03:32:58.709Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba48e",
+                    "disclosureId": "5b4c11ea1cedb4591e9ba484",
+                    "question": "Markets served including; types of customers and beneficiaries",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-16T03:32:58.831Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b03",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Scale of the Organization",
+                "l1": "102",
+                "l2": "7",
+                "l3": "a",
+                "l4": "i",
+                "order": 8,
+                "createdAt": "2018-07-13T09:38:44.444Z",
+                "updateAt": "2018-07-16T05:39:56.341Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b0a",
+                    "disclosureId": "5b487324559f742715150b03",
+                    "question": "Scale of the organization, including: total number of employees",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-13T09:38:44.504Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba490",
+                    "disclosureId": "5b487324559f742715150b03",
+                    "question": "Scale of the organization, including: total capitalization (for private sector organizations) broken down in terms of debt and equity",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.833Z",
+                    "updateAt": "2018-07-16T05:39:56.464Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba492",
+                    "disclosureId": "5b487324559f742715150b03",
+                    "question": "Scale of the organization, including: total number of operations",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.854Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba493",
+                    "disclosureId": "5b487324559f742715150b03",
+                    "question": "Scale of the organization, including: net sales (for private sector organizations) or net revenues (for public sector organizations)",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.860Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4c11ea1cedb4591e9ba488",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Significant changes to the organization and its supply chain",
+                "l1": "102",
+                "l2": "10",
+                "l3": "a",
+                "l4": "iii",
+                "order": 9,
+                "createdAt": "2018-07-16T03:32:58.712Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba48d",
+                    "disclosureId": "5b4c11ea1cedb4591e9ba488",
+                    "question": "Significant changes to the organization’s size, structure, ownership, or supply chain, including: Changes in the location of suppliers, the structure of the supply chain, or relationships with suppliers, including selection and termination",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.776Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4c11ea1cedb4591e9ba486",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Information on Employees and other workers",
+                "l1": "102",
+                "l2": "8",
+                "l3": "f",
+                "l4": null,
+                "order": 9,
+                "createdAt": "2018-07-16T03:32:58.710Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba489",
+                    "disclosureId": "5b4c11ea1cedb4591e9ba486",
+                    "question": "An explanation of how the data have been compiled, including any assumptions made",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.744Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4c11ea1cedb4591e9ba485",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Information on Employees and other workers",
+                "l1": "102",
+                "l2": "8",
+                "l3": "e",
+                "l4": null,
+                "order": 9,
+                "createdAt": "2018-07-16T03:32:58.710Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba48a",
+                    "disclosureId": "5b4c11ea1cedb4591e9ba485",
+                    "question": "Any significant variations in the numbers reported in Disclosures 102-8-a, 102-8-b, and 102-8-c (such as seasonal variations in the tourism or agricultural industries)",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.752Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b04",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Information on Employees and other workers",
+                "l1": "102",
+                "l2": "8",
+                "l3": "a",
+                "l4": null,
+                "order": 9,
+                "createdAt": "2018-07-13T09:38:44.448Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b0d",
+                    "disclosureId": "5b487324559f742715150b04",
+                    "question": "Total number of employees by employment contract (permanent and temporary), by gender.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-13T09:38:44.523Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba48f",
+                    "disclosureId": "5b487324559f742715150b04",
+                    "question": "Total number of employees by employment type (full-time and part-time), by gender",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.833Z",
+                    "updateAt": "2018-07-16T05:39:56.426Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba491",
+                    "disclosureId": "5b487324559f742715150b04",
+                    "question": "Whether a significant portion of the organization’s activities are performed by workers who are not employees. If applicable, a description of the nature and scale of work performed by workers who are not employees",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.848Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba494",
+                    "disclosureId": "5b487324559f742715150b04",
+                    "question": "Total number of employees by employment contract (permanent and temporary), by region",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.870Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4c11ea1cedb4591e9ba487",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Significant changes to the organization and its supply chain",
+                "l1": "102",
+                "l2": "10",
+                "l3": "a",
+                "l4": "ii",
+                "order": 9,
+                "createdAt": "2018-07-16T03:32:58.711Z",
+                "updateAt": "2018-07-16T05:39:56.341Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4c11ea1cedb4591e9ba48b",
+                    "disclosureId": "5b4c11ea1cedb4591e9ba487",
+                    "question": "Significant changes to the organization’s size, structure, ownership, or supply chain, including: Changes in the share capital structure and other capital formation, maintenance and alteration operations (for private sector organizations)",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-16T03:32:58.768Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b06",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Significant changes to the organization and its supply chain",
+                "l1": "102",
+                "l2": "10",
+                "l3": "a",
+                "l4": "i",
+                "order": 9,
+                "createdAt": "2018-07-13T09:38:44.448Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b10",
+                    "disclosureId": "5b487324559f742715150b06",
+                    "question": "Significant changes to the organization’s size, structure, ownership, or supply chain, including: Changes in the location of, or changes in, operations, including facility openings, closings, and expansions",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-13T09:38:44.542Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b05",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Supply Chain",
+                "l1": "102",
+                "l2": "9",
+                "l3": "a",
+                "l4": null,
+                "order": 10,
+                "createdAt": "2018-07-13T09:38:44.448Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b0c",
+                    "disclosureId": "5b487324559f742715150b05",
+                    "question": "A description of the organization’s supply chain, including its main elements as they relate to the organization’s activities, primary brands, products, and services",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-13T09:38:44.515Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b07",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Precautionary Principle or approach",
+                "l1": "102",
+                "l2": "11",
+                "l3": "a",
+                "l4": null,
+                "order": 12,
+                "createdAt": "2018-07-13T09:38:44.449Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b0f",
+                    "disclosureId": "5b487324559f742715150b07",
+                    "question": "Whether and how the organization applies the Precautionary Principle or approach.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-13T09:38:44.530Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b08",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "External Initiatives",
+                "l1": "102",
+                "l2": "12",
+                "l3": "a",
+                "l4": null,
+                "order": 13,
+                "createdAt": "2018-07-13T09:38:44.449Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b0b",
+                    "disclosureId": "5b487324559f742715150b08",
+                    "question": "A list of externally-developed economic, environmental and social charters, principles, or other initiatives to which the organization subscribes, or which it endorses.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "D",
+                    "createdAt": "2018-07-13T09:38:44.505Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b487324559f742715150b09",
+                "sectionId": "5b472f75559f742715150744",
+                "disclosureName": "Membership of Associations",
+                "l1": "102",
+                "l2": "13",
+                "l3": "a",
+                "l4": null,
+                "order": 14,
+                "createdAt": "2018-07-13T09:38:44.450Z",
+                "updateAt": "2018-07-16T05:39:56.341Z",
+                "__v": 0,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b487324559f742715150b0e",
+                    "disclosureId": "5b487324559f742715150b09",
+                    "question": "A list of the main memberships of industry or other associations, and national or international advocacy organizations",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "T",
+                    "createdAt": "2018-07-13T09:38:44.524Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f742715150745",
+            "sectionName": "Strategy",
+            "order": 2,
+            "standardId": "5b472f75559f742715150738",
+            "createdAt": "2018-07-12T10:37:41.250Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.262Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507a2",
+                "disclosureName": "Statement from senior decision-maker",
+                "l1": "102",
+                "l2": "1",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f742715150745",
+                "createdAt": "2018-07-12T10:37:41.411Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150847",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f7427151507a2",
+                    "createdAt": "2018-07-12T10:37:41.569Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507a3",
+                "disclosureName": "Key impacts, risks, and opportunities",
+                "l1": "102",
+                "l2": "2",
+                "l3": "a",
+                "l4": "i",
+                "order": 2,
+                "sectionId": "5b472f75559f742715150745",
+                "createdAt": "2018-07-12T10:37:41.411Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508e4",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "Y",
+                    "disclosureId": "5b472f75559f7427151507a3",
+                    "createdAt": "2018-07-12T10:37:41.748Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508e5",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f7427151507a3",
+                    "createdAt": "2018-07-12T10:37:41.748Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508e6",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "TEXTBIG",
+                    "order": "c",
+                    "validationCode": "ADD",
+                    "disclosureId": "5b472f75559f7427151507a3",
+                    "createdAt": "2018-07-12T10:37:41.748Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f742715150746",
+            "sectionName": "Ethics and integrity",
+            "order": 3,
+            "standardId": "5b472f75559f742715150738",
+            "createdAt": "2018-07-12T10:37:41.251Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.262Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515076a",
+                "disclosureName": "Values, principles, standards, and norms of behavior",
+                "l1": "102",
+                "l2": "1",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f742715150746",
+                "createdAt": "2018-07-12T10:37:41.305Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.341Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150792",
+                    "question": "A description of the organization’s values, principles, standards, and norms of behavior.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515076a",
+                    "createdAt": "2018-07-12T10:37:41.365Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.490Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515076b",
+                "disclosureName": "Mechanisms for advice and concerns about ethics",
+                "l1": "102",
+                "l2": "2",
+                "l3": "a",
+                "l4": "i",
+                "order": 2,
+                "sectionId": "5b472f75559f742715150746",
+                "createdAt": "2018-07-12T10:37:41.306Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.339Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507f3",
+                    "question": "A description of internal and external mechanisms for: seeking advice about ethical and lawful behavior, and organizational integrity",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "E",
+                    "disclosureId": "5b472f75559f74271515076b",
+                    "createdAt": "2018-07-12T10:37:41.467Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507f4",
+                    "question": "A description of internal and external mechanisms for: reporting concerns about unethical or unlawful behavior, and organizational integrity",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515076b",
+                    "createdAt": "2018-07-12T10:37:41.467Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.464Z"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f742715150747",
+            "sectionName": "Governance",
+            "order": 4,
+            "standardId": "5b472f75559f742715150738",
+            "createdAt": "2018-07-12T10:37:41.252Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.262Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f742715150817",
+                "disclosureName": "Governance structure",
+                "l1": "102",
+                "l2": "1",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.544Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150943",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f742715150817",
+                    "createdAt": "2018-07-12T10:37:41.831Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f742715150818",
+                "disclosureName": "Governance structure",
+                "l1": "102",
+                "l2": "2",
+                "l3": "a",
+                "l4": "i",
+                "order": 2,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.545Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508b7",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "Y",
+                    "disclosureId": "5b472f75559f742715150818",
+                    "createdAt": "2018-07-12T10:37:41.681Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508b8",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f742715150818",
+                    "createdAt": "2018-07-12T10:37:41.681Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.464Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508b9",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "TEXTBIG",
+                    "order": "c",
+                    "validationCode": "ADD",
+                    "disclosureId": "5b472f75559f742715150818",
+                    "createdAt": "2018-07-12T10:37:41.683Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f742715150819",
+                "disclosureName": "Delegating authority",
+                "l1": "102",
+                "l2": "2",
+                "l3": "b",
+                "l4": "ii",
+                "order": 3,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.545Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151509b0",
+                    "question": "Primary brands, products, and services, including an explanation of any products or services that are banned in certain markets.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "validationCode": "N",
+                    "disclosureId": "5b472f75559f742715150819",
+                    "createdAt": "2018-07-12T10:37:41.938Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151509b1",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f742715150819",
+                    "createdAt": "2018-07-12T10:37:41.938Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515081a",
+                "disclosureName": "Executive-level responsibility for economic, environmental, and social topics",
+                "l1": "102",
+                "l2": "3",
+                "l3": "a",
+                "order": 4,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.545Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150908",
+                    "question": "Location of the organization’s headquarters.",
+                    "answerType": "PHONE_NUMBER",
+                    "order": "a",
+                    "validationCode": "TEL",
+                    "disclosureId": "5b472f75559f74271515081a",
+                    "createdAt": "2018-07-12T10:37:41.762Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515081b",
+                "disclosureName": "Executive-level responsibility for economic, environmental, and social topics",
+                "l1": "102",
+                "l2": "4",
+                "l3": "a",
+                "order": 5,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.548Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515098e",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "DATE_RANGE",
+                    "order": "a",
+                    "validationCode": "DR",
+                    "disclosureId": "5b472f75559f74271515081b",
+                    "createdAt": "2018-07-12T10:37:41.885Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515081c",
+                "disclosureName": "Consulting stakeholders on economic, environmental, and social topics",
+                "l1": "102",
+                "l2": "5",
+                "l3": "a",
+                "order": 6,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.548Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150944",
+                    "question": "Nature of ownership and legal form.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515081c",
+                    "createdAt": "2018-07-12T10:37:41.831Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515081d",
+                "disclosureName": "Consulting stakeholders on economic, environmental, and social topics",
+                "l1": "102",
+                "l2": "6",
+                "l3": "a",
+                "l4": "i",
+                "order": 7,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.549Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508ba",
+                    "question": "Markets served including; geographic locations where products and services are offered",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "validationCode": "NN",
+                    "disclosureId": "5b472f75559f74271515081d",
+                    "createdAt": "2018-07-12T10:37:41.684Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508bb",
+                    "question": "Nature of ownership and legal form.",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515081d",
+                    "createdAt": "2018-07-12T10:37:41.685Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508bc",
+                    "question": "Location of the organization’s headquarters.",
+                    "answerType": "PHONE_NUMBER",
+                    "order": "c",
+                    "validationCode": "TEL",
+                    "disclosureId": "5b472f75559f74271515081d",
+                    "createdAt": "2018-07-12T10:37:41.685Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515081e",
+                "disclosureName": "Composition of the highest governance body and its committees",
+                "l1": "102",
+                "l2": "6",
+                "l3": "a",
+                "l4": "ii",
+                "order": 8,
+                "sectionId": "5b472f75559f742715150747",
+                "createdAt": "2018-07-12T10:37:41.549Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151509b2",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "validationCode": "NZ",
+                    "disclosureId": "5b472f75559f74271515081e",
+                    "createdAt": "2018-07-12T10:37:41.938Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fc7",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Chair of the highest governance body",
+                "l1": "102",
+                "l2": "23",
+                "l3": "a",
+                "order": 9,
+                "createdAt": "2018-07-15T06:38:06.978Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe6",
+                    "disclosureId": "5b4aebceced0944e27ff0fc7",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.053Z",
+                    "updateAt": "2018-07-16T05:39:56.464Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fc8",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Chair of the highest governance body",
+                "l1": "102",
+                "l2": "23",
+                "l3": "b",
+                "order": 10,
+                "createdAt": "2018-07-15T06:38:06.982Z",
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff1",
+                    "disclosureId": "5b4aebceced0944e27ff0fc8",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.107Z",
+                    "updateAt": "2018-07-16T05:39:56.426Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fc9",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Nominating and selecting the highest governance body",
+                "l1": "102",
+                "l2": "24",
+                "l3": "a",
+                "order": 11,
+                "createdAt": "2018-07-15T06:38:06.982Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe1",
+                    "disclosureId": "5b4aebceced0944e27ff0fc9",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.037Z",
+                    "updateAt": "2018-07-16T05:39:56.490Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fca",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Conflicts of interest",
+                "l1": "102",
+                "l2": "24",
+                "l3": "b",
+                "order": 12,
+                "createdAt": "2018-07-15T06:38:06.983Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff6",
+                    "disclosureId": "5b4aebceced0944e27ff0fca",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.121Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff7",
+                    "disclosureId": "5b4aebceced0944e27ff0fca",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.122Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff8",
+                    "disclosureId": "5b4aebceced0944e27ff0fca",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.122Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff9",
+                    "disclosureId": "5b4aebceced0944e27ff0fca",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.122Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fcb",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Role of highest governance body in setting purpose, values, and strategy",
+                "l1": "102",
+                "l2": "24",
+                "l3": "b",
+                "order": 13,
+                "createdAt": "2018-07-15T06:38:06.983Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fec",
+                    "disclosureId": "5b4aebceced0944e27ff0fcb",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.068Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fcc",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Collective knowledge of highest governance body",
+                "l1": "102",
+                "l2": "24",
+                "l3": "b",
+                "order": 14,
+                "createdAt": "2018-07-15T06:38:06.984Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe7",
+                    "disclosureId": "5b4aebceced0944e27ff0fcc",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.053Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fcd",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Evaluating the highest governance body’s performance",
+                "l1": "102",
+                "l2": "24",
+                "l3": "a",
+                "order": 15,
+                "createdAt": "2018-07-15T06:38:06.984Z",
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff2",
+                    "disclosureId": "5b4aebceced0944e27ff0fcd",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.110Z",
+                    "updateAt": "2018-07-16T05:39:56.340Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fce",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Evaluating the highest governance body’s performance",
+                "l1": "102",
+                "l2": "24",
+                "l3": "b",
+                "order": 16,
+                "createdAt": "2018-07-15T06:38:06.985Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe2",
+                    "disclosureId": "5b4aebceced0944e27ff0fce",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.038Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fcf",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Evaluating the highest governance body’s performance",
+                "l1": "102",
+                "l2": "24",
+                "l3": "c",
+                "order": 17,
+                "createdAt": "2018-07-15T06:38:06.985Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ffa",
+                    "disclosureId": "5b4aebceced0944e27ff0fcf",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.123Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd0",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Evaluating the highest governance body’s performance",
+                "l1": "102",
+                "l2": "24",
+                "l3": "d",
+                "order": 18,
+                "createdAt": "2018-07-15T06:38:06.985Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fed",
+                    "disclosureId": "5b4aebceced0944e27ff0fd0",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.068Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd1",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Identifying and managing economic, environmental, and social impacts",
+                "l1": "102",
+                "l2": "29",
+                "l3": "a",
+                "order": 19,
+                "createdAt": "2018-07-15T06:38:06.988Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe8",
+                    "disclosureId": "5b4aebceced0944e27ff0fd1",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.053Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd2",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Identifying and managing economic, environmental, and social impacts",
+                "l1": "102",
+                "l2": "29",
+                "l3": "b",
+                "order": 20,
+                "createdAt": "2018-07-15T06:38:06.989Z",
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff3",
+                    "disclosureId": "5b4aebceced0944e27ff0fd2",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.110Z",
+                    "updateAt": "2018-07-16T05:39:56.340Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd3",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Effectiveness of risk management processes",
+                "l1": "102",
+                "l2": "30",
+                "l3": "a",
+                "order": 21,
+                "createdAt": "2018-07-15T06:38:06.989Z",
+                "updateAt": "2018-07-16T05:39:56.339Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe3",
+                    "disclosureId": "5b4aebceced0944e27ff0fd3",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.039Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd4",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Review of economic, environmental, and social topics",
+                "l1": "102",
+                "l2": "31",
+                "l3": "a",
+                "order": 22,
+                "createdAt": "2018-07-15T06:38:06.990Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ffb",
+                    "disclosureId": "5b4aebceced0944e27ff0fd4",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.123Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd5",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Highest governance body’s role in sustainability reporting",
+                "l1": "102",
+                "l2": "32",
+                "l3": "a",
+                "order": 23,
+                "createdAt": "2018-07-15T06:38:06.990Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fee",
+                    "disclosureId": "5b4aebceced0944e27ff0fd5",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.068Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd6",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Communicating critical concerns",
+                "l1": "102",
+                "l2": "33",
+                "l3": "a",
+                "order": 24,
+                "createdAt": "2018-07-15T06:38:06.991Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe9",
+                    "disclosureId": "5b4aebceced0944e27ff0fd6",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.054Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd7",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Nature and total number of critical concerns",
+                "l1": "102",
+                "l2": "34",
+                "l3": "a",
+                "order": 25,
+                "createdAt": "2018-07-15T06:38:06.991Z",
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff4",
+                    "disclosureId": "5b4aebceced0944e27ff0fd7",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.111Z",
+                    "updateAt": "2018-07-16T05:39:56.426Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd8",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Nature and total number of critical concerns",
+                "l1": "102",
+                "l2": "34",
+                "l3": "b",
+                "order": 26,
+                "createdAt": "2018-07-15T06:38:06.995Z",
+                "updateAt": "2018-07-16T05:39:56.339Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe4",
+                    "disclosureId": "5b4aebceced0944e27ff0fd8",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.039Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fd9",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Remuneration policies",
+                "l1": "102",
+                "l2": "35",
+                "l3": "a",
+                "order": 26,
+                "createdAt": "2018-07-15T06:38:06.996Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ffc",
+                    "disclosureId": "5b4aebceced0944e27ff0fd9",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.123Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fda",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Process for determining remuneration",
+                "l1": "102",
+                "l2": "36",
+                "l3": "a",
+                "order": 27,
+                "createdAt": "2018-07-15T06:38:06.996Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fef",
+                    "disclosureId": "5b4aebceced0944e27ff0fda",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.069Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fdb",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Process for determining remuneration",
+                "l1": "102",
+                "l2": "36",
+                "l3": "b",
+                "order": 28,
+                "createdAt": "2018-07-15T06:38:06.996Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fea",
+                    "disclosureId": "5b4aebceced0944e27ff0fdb",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.054Z",
+                    "updateAt": "2018-07-16T05:39:56.462Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fdc",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Process for determining remuneration",
+                "l1": "102",
+                "l2": "36",
+                "l3": "c",
+                "order": 29,
+                "createdAt": "2018-07-15T06:38:06.997Z",
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff5",
+                    "disclosureId": "5b4aebceced0944e27ff0fdc",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.111Z",
+                    "updateAt": "2018-07-16T05:39:56.341Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fdd",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Stakeholders’ involvement in remuneration",
+                "l1": "102",
+                "l2": "37",
+                "l3": "a",
+                "order": 30,
+                "createdAt": "2018-07-15T06:38:06.997Z",
+                "updateAt": "2018-07-16T05:39:56.339Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0fe5",
+                    "disclosureId": "5b4aebceced0944e27ff0fdd",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.041Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebceced0944e27ff0fde",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Stakeholders’ involvement in remuneration",
+                "l1": "102",
+                "l2": "37",
+                "l3": "b",
+                "order": 31,
+                "createdAt": "2018-07-15T06:38:06.999Z",
+                "updateAt": "2018-07-16T05:39:56.340Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ffd",
+                    "disclosureId": "5b4aebceced0944e27ff0fde",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.124Z",
+                    "updateAt": "2018-07-16T05:39:56.427Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebcfced0944e27ff0fdf",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Annual total compensation ratio",
+                "l1": "102",
+                "l2": "38",
+                "l3": "a",
+                "order": 31,
+                "createdAt": "2018-07-15T06:38:07.000Z",
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0ff0",
+                    "disclosureId": "5b4aebcfced0944e27ff0fdf",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.070Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b4aebcfced0944e27ff0fe0",
+                "sectionId": "5b472f75559f742715150747",
+                "disclosureName": "Percentage increase in annual total compensation ratio",
+                "l1": "102",
+                "l2": "39",
+                "l3": "a",
+                "order": 32,
+                "createdAt": "2018-07-15T06:38:07.001Z",
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "__v": 0,
+                "l4": null,
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b4aebcfced0944e27ff0feb",
+                    "disclosureId": "5b4aebcfced0944e27ff0fe0",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "enumId": null,
+                    "validationCode": "NZ",
+                    "createdAt": "2018-07-15T06:38:07.054Z",
+                    "updateAt": "2018-07-16T05:39:56.463Z",
+                    "__v": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f742715150748",
+            "sectionName": "Stakeholder engagement",
+            "order": 5,
+            "standardId": "5b472f75559f742715150738",
+            "createdAt": "2018-07-12T10:37:41.253Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.258Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515077b",
+                "disclosureName": "List of stakeholder groups",
+                "l1": "102",
+                "l2": "1",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f742715150748",
+                "createdAt": "2018-07-12T10:37:41.349Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.294Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515083a",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515077b",
+                    "createdAt": "2018-07-12T10:37:41.563Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515077c",
+                "disclosureName": "Collective bargaining agreements",
+                "l1": "102",
+                "l2": "2",
+                "l3": "a",
+                "l4": "i",
+                "order": 2,
+                "sectionId": "5b472f75559f742715150748",
+                "createdAt": "2018-07-12T10:37:41.349Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.294Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508cf",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "E",
+                    "disclosureId": "5b472f75559f74271515077c",
+                    "createdAt": "2018-07-12T10:37:41.738Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508d0",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515077c",
+                    "createdAt": "2018-07-12T10:37:41.739Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515077d",
+                "disclosureName": "Identifying and selecting stakeholders",
+                "l1": "102",
+                "l2": "2",
+                "l3": "b",
+                "l4": "ii",
+                "order": 3,
+                "sectionId": "5b472f75559f742715150748",
+                "createdAt": "2018-07-12T10:37:41.350Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.294Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507f9",
+                    "question": "Primary brands, products, and services, including an explanation of any products or services that are banned in certain markets.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "TWS",
+                    "disclosureId": "5b472f75559f74271515077d",
+                    "createdAt": "2018-07-12T10:37:41.469Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507fa",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "E",
+                    "disclosureId": "5b472f75559f74271515077d",
+                    "createdAt": "2018-07-12T10:37:41.469Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515077e",
+                "disclosureName": "Approach to stakeholder engagement",
+                "l1": "102",
+                "l2": "3",
+                "l3": "a",
+                "order": 4,
+                "sectionId": "5b472f75559f742715150748",
+                "createdAt": "2018-07-12T10:37:41.350Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507c1",
+                    "question": "Location of the organization’s headquarters.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "TWSN",
+                    "disclosureId": "5b472f75559f74271515077e",
+                    "createdAt": "2018-07-12T10:37:41.427Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515077f",
+                "disclosureName": "Key topics and concerns raised",
+                "l1": "102",
+                "l2": "4",
+                "l3": "a",
+                "order": 5,
+                "sectionId": "5b472f75559f742715150748",
+                "createdAt": "2018-07-12T10:37:41.351Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515087e",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "ADD",
+                    "disclosureId": "5b472f75559f74271515077f",
+                    "createdAt": "2018-07-12T10:37:41.642Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f742715150749",
+            "sectionName": "Reporting practice",
+            "order": 6,
+            "standardId": "5b472f75559f742715150738",
+            "createdAt": "2018-07-12T10:37:41.253Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.262Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507db",
+                "disclosureName": "Entities included in the consolidated financial statements",
+                "l1": "102",
+                "l2": "45",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.458Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150978",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f7427151507db",
+                    "createdAt": "2018-07-12T10:37:41.877Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507dc",
+                "disclosureName": "Entities included in the consolidated financial statements",
+                "l1": "102",
+                "l2": "45",
+                "l3": "b",
+                "l4": null,
+                "order": 2,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.458Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150930",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "Y",
+                    "disclosureId": "5b472f75559f7427151507dc",
+                    "createdAt": "2018-07-12T10:37:41.824Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150931",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f7427151507dc",
+                    "createdAt": "2018-07-12T10:37:41.824Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150932",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "TEXTBIG",
+                    "order": "c",
+                    "validationCode": "ADD",
+                    "disclosureId": "5b472f75559f7427151507dc",
+                    "createdAt": "2018-07-12T10:37:41.825Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507dd",
+                "disclosureName": "Defining report content and topic Boundaries",
+                "l1": "102",
+                "l2": "46",
+                "l3": "a",
+                "l4": null,
+                "order": 3,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.459Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.294Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508a6",
+                    "question": "Primary brands, products, and services, including an explanation of any products or services that are banned in certain markets.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "validationCode": "N",
+                    "disclosureId": "5b472f75559f7427151507dd",
+                    "createdAt": "2018-07-12T10:37:41.661Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508a7",
+                    "question": "Name of the organization.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "M",
+                    "disclosureId": "5b472f75559f7427151507dd",
+                    "createdAt": "2018-07-12T10:37:41.661Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507de",
+                "disclosureName": "Defining report content and topic Boundaries",
+                "l1": "102",
+                "l2": "46",
+                "l3": "b",
+                "order": 4,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.459Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515085d",
+                    "question": "Location of the organization’s headquarters.",
+                    "answerType": "PHONE_NUMBER",
+                    "order": "a",
+                    "validationCode": "TEL",
+                    "disclosureId": "5b472f75559f7427151507de",
+                    "createdAt": "2018-07-12T10:37:41.577Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507df",
+                "disclosureName": "List of material topics",
+                "l1": "102",
+                "l2": "47",
+                "l3": "a",
+                "order": 5,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.460Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508fa",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "DATE_RANGE",
+                    "order": "a",
+                    "validationCode": "DR",
+                    "disclosureId": "5b472f75559f7427151507df",
+                    "createdAt": "2018-07-12T10:37:41.756Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507e0",
+                "disclosureName": "Restatements of information",
+                "l1": "102",
+                "l2": "48",
+                "l3": "a",
+                "order": 6,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.460Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.294Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150979",
+                    "question": "Nature of ownership and legal form.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f7427151507e0",
+                    "createdAt": "2018-07-12T10:37:41.877Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507e1",
+                "disclosureName": "Changes in reporting",
+                "l1": "102",
+                "l2": "49",
+                "l3": "a",
+                "l4": null,
+                "order": 7,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.460Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150933",
+                    "question": "Markets served including; geographic locations where products and services are offered",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "validationCode": "NN",
+                    "disclosureId": "5b472f75559f7427151507e1",
+                    "createdAt": "2018-07-12T10:37:41.825Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.338Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150934",
+                    "question": "Nature of ownership and legal form.",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f7427151507e1",
+                    "createdAt": "2018-07-12T10:37:41.825Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.341Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150935",
+                    "question": "Location of the organization’s headquarters.",
+                    "answerType": "PHONE_NUMBER",
+                    "order": "c",
+                    "validationCode": "TEL",
+                    "disclosureId": "5b472f75559f7427151507e1",
+                    "createdAt": "2018-07-12T10:37:41.826Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.340Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f7427151507e2",
+                "disclosureName": "External assurance",
+                "l1": "102",
+                "l2": "56",
+                "l3": "a",
+                "l4": null,
+                "order": 13,
+                "sectionId": "5b472f75559f742715150749",
+                "createdAt": "2018-07-12T10:37:41.461Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.294Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151508a8",
+                    "question": "Number of countries where the organization operates, and the names of countries where it has significant operations and/or that are relevant to the topics covered in the report.",
+                    "answerType": "NUMBER",
+                    "order": "a",
+                    "validationCode": "NZ",
+                    "disclosureId": "5b472f75559f7427151507e2",
+                    "createdAt": "2018-07-12T10:37:41.675Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.425Z"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "enabled": true,
+        "_id": "5b472f75559f742715150739",
+        "standardName": "Management Approach",
+        "order": 2,
+        "reportTemplateId": "5b472f75559f742715150731",
+        "createdAt": "2018-07-12T10:37:41.215Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T05:39:56.252Z",
+        "sections": [
+          {
+            "enabled": true,
+            "sectorIds": [],
+            "_id": "5b472f75559f74271515073a",
+            "sectionName": "Management Approach",
+            "order": 1,
+            "standardId": "5b472f75559f742715150739",
+            "createdAt": "2018-07-12T10:37:41.233Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T05:39:56.262Z",
+            "disclosures": [
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515074a",
+                "disclosureName": "Explanation of the material topic and its Boundary",
+                "l1": "103",
+                "l2": "1",
+                "l3": "a",
+                "order": 1,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.265Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150866",
+                    "question": "An explanation of why the topic is material.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515074a",
+                    "createdAt": "2018-07-12T10:37:41.633Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515074b",
+                "disclosureName": "Explanation of the material topic and its Boundary",
+                "l1": "103",
+                "l2": "1",
+                "l3": "b",
+                "l4": null,
+                "order": 2,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.266Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f74271515081f",
+                    "question": "The Boundary for the material topic, which includes a description of: where the impacts occur",
+                    "answerType": "TEXT",
+                    "order": "a",
+                    "validationCode": "E",
+                    "disclosureId": "5b472f75559f74271515074b",
+                    "createdAt": "2018-07-12T10:37:41.549Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150820",
+                    "question": "The Boundary for the material topic, which includes a description of: the organization’s involvement with the impacts. For example, whether the organization has caused or contributed to the impacts, or is directly linked to the impacts through its business relationships.",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515074b",
+                    "createdAt": "2018-07-12T10:37:41.550Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.462Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515074c",
+                "disclosureName": "Explanation of the material topic and its Boundary",
+                "l1": "103",
+                "l2": "1",
+                "l3": "c",
+                "l4": null,
+                "order": 3,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.266Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.338Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150784",
+                    "question": "Any specific limitation regarding the topic Boundary.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515074c",
+                    "createdAt": "2018-07-12T10:37:41.354Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.427Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150785",
+                    "question": "A description of the organization’s activities.",
+                    "answerType": "TEXT",
+                    "order": "b",
+                    "validationCode": "E",
+                    "disclosureId": "5b472f75559f74271515074c",
+                    "createdAt": "2018-07-12T10:37:41.355Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.426Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515074d",
+                "disclosureName": "The management approach and its components",
+                "l1": "103",
+                "l2": "2",
+                "l3": "a",
+                "order": 4,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.268Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507e3",
+                    "question": "An explanation of how the organization manages the topic.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515074d",
+                    "createdAt": "2018-07-12T10:37:41.461Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.341Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515074e",
+                "disclosureName": "The management approach and its components",
+                "l1": "103",
+                "l2": "2",
+                "l3": "b",
+                "order": 5,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.268Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.295Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f7427151507aa",
+                    "question": "A statement of the purpose of the management approach.",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515074e",
+                    "createdAt": "2018-07-12T10:37:41.417Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.341Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Core",
+                  "Pollution",
+                  "Environment"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f74271515074f",
+                "disclosureName": "The management approach and its components",
+                "l1": "103",
+                "l2": "2",
+                "l3": "c",
+                "order": 6,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.269Z",
+                "__v": 0,
+                "l4": null,
+                "updateAt": "2018-07-16T05:39:56.296Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150867",
+                    "question": "A description of the following, if the management approach includes that component: Specific actions, such as processe, projects, programs and initiatives",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f74271515074f",
+                    "createdAt": "2018-07-12T10:37:41.633Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.341Z"
+                  }
+                ]
+              },
+              {
+                "tags": [
+                  "Pollution",
+                  "Environment",
+                  "Global Warming"
+                ],
+                "references": [
+                  "5b222fd94dffd46f1b849923",
+                  "5b222fd94dffd46f1b849921"
+                ],
+                "enabled": true,
+                "_id": "5b472f75559f742715150750",
+                "disclosureName": "Evaluation of the management approach",
+                "l1": "103",
+                "l2": "3",
+                "l3": "a",
+                "l4": null,
+                "order": 7,
+                "sectionId": "5b472f75559f74271515073a",
+                "createdAt": "2018-07-12T10:37:41.272Z",
+                "__v": 0,
+                "updateAt": "2018-07-16T05:39:56.337Z",
+                "questions": [
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150821",
+                    "question": "An explanation of how the organization evaluates the management approach, including: the mechanisms for evaluating the effectiveness of the management approach",
+                    "answerType": "TEXTBIG",
+                    "order": "a",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f742715150750",
+                    "createdAt": "2018-07-12T10:37:41.550Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.464Z"
+                  },
+                  {
+                    "enabled": true,
+                    "_id": "5b472f75559f742715150822",
+                    "question": "An explanation of how the organization evaluates the management approach, including: any related adjustments to the management approach",
+                    "answerType": "TEXTBIG",
+                    "order": "b",
+                    "validationCode": "T",
+                    "disclosureId": "5b472f75559f742715150750",
+                    "createdAt": "2018-07-12T10:37:41.550Z",
+                    "__v": 0,
+                    "enumId": null,
+                    "updateAt": "2018-07-16T05:39:56.463Z"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
