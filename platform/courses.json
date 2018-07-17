@@ -1,0 +1,742 @@
+[
+  {
+    "enabled": true,
+    "_id": "5b472f75559f742715150727",
+    "courseId": "1",
+    "courseName": "GRI",
+    "description": "Sustainability reporting enables organizations to consider their impacts of wide range of sustainability issues, enabling them to be more transparent about the risks and opportunities they face.",
+    "introMediaURL": "https://www.youtube.com/watch?v=RDe8Kkh1BrU",
+    "introMediaType": "video",
+    "order": 1,
+    "createdAt": "2018-07-12T10:37:41.052Z",
+    "__v": 0,
+    "updateAt": "2018-07-16T18:24:01.413Z",
+    "lessons": [
+      {
+        "enabled": true,
+        "_id": "5b472f75559f74271515070b",
+        "lessonId": "1.1",
+        "lessonName": "Different Reporting Frameworks",
+        "courseId": "1",
+        "lessonDescription": "A sustainability report is an organizational report that gives information about economic, environmental, social and governance performance. Sustainability reporting is not just report generation from collected data; instead it is a method to internalize and improve an organization’s commitment to sustainable development in a way that can be demonstrated to both internal and external stakeholders.",
+        "introMediaURL": "https://www.youtube.com/watch?v=xzciWjaYuHA",
+        "introMediaType": "video",
+        "order": 1,
+        "createdAt": "2018-07-12T10:37:41.012Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": [
+          {
+            "contentList": [],
+            "enabled": true,
+            "_id": "5b472f75559f742715150717",
+            "contentTitle": "Anthropogenic (man-made) sources",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "https://vimeo.com/63966024",
+            "contentType": "video",
+            "lessonId": "1.1",
+            "order": 1,
+            "createdAt": "2018-07-12T10:37:41.040Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T18:24:01.451Z"
+          }
+        ]
+      },
+      {
+        "enabled": true,
+        "_id": "5b472f75559f742715150714",
+        "lessonId": "1.2",
+        "lessonName": "Global Reporting Standards",
+        "lessonDescription": "The GRI Standards are the first global standards for sustainability reporting. They feature a modular, interrelated structure, and represent the global best practice for reporting on a range of economic, environmental and social impacts.",
+        "courseId": "1",
+        "introMediaURL": "https://www.youtube.com/watch?v=RDe8Kkh1BrU",
+        "introMediaType": "video",
+        "order": 2,
+        "createdAt": "2018-07-12T10:37:41.025Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": [
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-101-foundation-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b472f75559f742715150721",
+            "contentTitle": "Moving Beyond Reports",
+            "description": "In June 2018, GRI launched a revised reporting Standard for Occupational Health and Safety. This video will provide an overview of the key features of this Standard and practical guidance on how to use it.",
+            "content": "https://www.youtube.com/watch?v=pbW7LeKrQMI",
+            "contentType": "video",
+            "lessonId": "1.2",
+            "order": 1,
+            "createdAt": "2018-07-12T10:37:41.046Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T18:24:01.450Z"
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-206-anti-competitive-behavior-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b15",
+            "contentTitle": "gri-206-anti-competitive-behavior-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 1,
+            "createdAt": "2018-07-16T18:00:16.421Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-102-general-disclosures-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b0e",
+            "contentTitle": "gri-102-general-disclosures-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 2,
+            "createdAt": "2018-07-16T18:00:16.413Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-103-management-approach-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b0f",
+            "contentTitle": "gri-103-management-approach-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 3,
+            "createdAt": "2018-07-16T18:00:16.418Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-201-economic-performance-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b10",
+            "contentTitle": "gri-201-economic-performance-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 4,
+            "createdAt": "2018-07-16T18:00:16.418Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-202-market-presence-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b11",
+            "contentTitle": "gri-202-market-presence-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 5,
+            "createdAt": "2018-07-16T18:00:16.420Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-203-indirect-economic-impacts-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b12",
+            "contentTitle": "gri-203-indirect-economic-impacts-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 6,
+            "createdAt": "2018-07-16T18:00:16.420Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-204-procurement-practices-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b13",
+            "contentTitle": "gri-204-procurement-practices-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 7,
+            "createdAt": "2018-07-16T18:00:16.421Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-205-anti-corruption-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b14",
+            "contentTitle": "gri-205-anti-corruption-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 8,
+            "createdAt": "2018-07-16T18:00:16.421Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-302-energy-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b16",
+            "contentTitle": "gri-302-energy-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 11,
+            "createdAt": "2018-07-16T18:00:16.422Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-303-water-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b17",
+            "contentTitle": "gri-303-water-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 12,
+            "createdAt": "2018-07-16T18:00:16.422Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-304-biodiversity-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b18",
+            "contentTitle": "gri-304-biodiversity-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 13,
+            "createdAt": "2018-07-16T18:00:16.422Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-305-emissions-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b19",
+            "contentTitle": "gri-305-emissions-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 14,
+            "createdAt": "2018-07-16T18:00:16.422Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-306-effluents-and-waste-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b1a",
+            "contentTitle": "gri-306-effluents-and-waste-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 15,
+            "createdAt": "2018-07-16T18:00:16.423Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-307-environmental-compliance-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b1b",
+            "contentTitle": "gri-307-environmental-compliance-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 16,
+            "createdAt": "2018-07-16T18:00:16.423Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-308-supplier-environmental-assessment-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b1c",
+            "contentTitle": "gri-308-supplier-environmental-assessment-2016.pdf",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 17,
+            "createdAt": "2018-07-16T18:00:16.424Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-401-employment-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b472f75559f74271515072e",
+            "contentTitle": "GRI 401 Employment",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 18,
+            "createdAt": "2018-07-12T10:37:41.055Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T18:24:01.450Z"
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-401-employment-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b1d",
+            "contentTitle": "GRI 401 Employment",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 18,
+            "createdAt": "2018-07-16T18:00:16.424Z",
+            "updateAt": "2018-07-16T18:24:01.450Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-401-employment-2016.pdf"
+            ],
+            "enabled": true,
+            "_id": "5b4cdd3021636160b5335b1e",
+            "contentTitle": "GRI 401 Employment",
+            "description": "GRI 101: Foundation applies to any organization that wants to use the GRI Standards to report about its economic, environmental, and/or social impacts. Therefore, this Standard is applicable to: • an organization that intends to prepare a sustainability report in accordance with the GRI Standards; or an organization that intends to use selected GRI Standards, or parts of their content, to report on impacts related to specific economic, social, and/or environmental topics (e.g., to report on emissions only). GRI 101 can be used by an organization of any size, type, sector, or geographic location",
+            "content": null,
+            "contentType": "url",
+            "lessonId": "1.2",
+            "order": 18,
+            "createdAt": "2018-07-16T18:00:16.424Z",
+            "updateAt": "2018-07-16T18:24:01.451Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "enabled": true,
+        "_id": "5b472f75559f74271515071e",
+        "lessonId": "1.3",
+        "lessonName": "What is Materiality?",
+        "lessonDescription": "Soil Pollution is a serious environmental pollution that our world is facing now. Soil pollution takes place when the existence of toxic chemicals, pollutants or impurities in the soil is in high.",
+        "courseId": "1",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 3,
+        "createdAt": "2018-07-12T10:37:41.045Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": [
+          {
+            "contentList": [],
+            "enabled": true,
+            "_id": "5b472f75559f742715150723",
+            "contentTitle": "Anthropogenic (man-made) sources",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "contentType": "video",
+            "lessonId": "1.3",
+            "order": 1,
+            "createdAt": "2018-07-12T10:37:41.047Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T18:24:01.450Z"
+          },
+          {
+            "contentList": [],
+            "enabled": true,
+            "_id": "5b472f75559f74271515070f",
+            "contentTitle": "Cost of pollution",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "Pollution can also create costs for the firms producing the pollution. Sometimes firms choose, or are forced by regulation, to reduce the amount of pollution that they are producing. The associated costs of doing this are called abatement costs, or marginal abatement costs if measured by each additional unit.<br>However, goods and services that involve negative externalities in production, such as those that produce pollution, tend to be over-produced and underpriced since the externality is not being priced into the market",
+            "contentType": "text",
+            "lessonId": "1.3",
+            "order": 2,
+            "createdAt": "2018-07-12T10:37:41.018Z",
+            "__v": 0,
+            "updateAt": "2018-07-16T18:24:01.442Z"
+          },
+          {
+            "contentList": [
+              "https://s3-us-west-2.amazonaws.com/ba-sustainabilityreport-references/gri-101-foundation-2016.pdf",
+              "https://www.journals.elsevier.com/environmental-pollution"
+            ],
+            "enabled": true,
+            "_id": "5b472f75559f74271515072c",
+            "contentTitle": "GRI 101 Foundation",
+            "description": "Foundation document for GRI reporting",
+            "contentType": "url",
+            "lessonId": "1.3",
+            "order": 3,
+            "createdAt": "2018-07-12T10:37:41.054Z",
+            "__v": 0,
+            "content": null,
+            "updateAt": "2018-07-16T18:24:01.443Z"
+          }
+        ]
+      },
+      {
+        "enabled": true,
+        "_id": "5b472f75559f742715150729",
+        "lessonId": "1.4",
+        "lessonName": "Noise Pollution",
+        "lessonDescription": "Noise pollution has become more of an environmental issue since the industrial age. It is disturbing or extreme noise that has the ability to harm the activity or balance of human as well as animal life.",
+        "courseId": "1",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 4,
+        "createdAt": "2018-07-12T10:37:41.053Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": [
+          {
+            "contentList": [
+              {
+                "name": "Alejandrodelasota Demo Form",
+                "documentUrl": "https://www.alejandrodelasota.org/wp-content/uploads/2013/03/demoform1.pdf"
+              },
+              {
+                "name": "phoca Demo Form",
+                "documentUrl": "https://www.phoca.cz/demo/phocadownload/phocapdf-demo.pdf"
+              }
+            ],
+            "enabled": false,
+            "_id": "5b472f75559f742715150736",
+            "contentTitle": "Anthropogenic (man-made) sources",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "contentType": "document",
+            "lessonId": "1.4",
+            "order": 4,
+            "createdAt": "2018-07-12T10:37:41.064Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f742715150733",
+        "lessonId": "1.5",
+        "lessonName": "Radiation Pollution",
+        "lessonDescription": "It can happen because of the release of radioactive stuffs or high-energy elements into the air, water, or soil on account of excessive human activity, either by mistake or intentionally.",
+        "courseId": "1",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 5,
+        "createdAt": "2018-07-12T10:37:41.058Z",
+        "__v": 0,
+        "contents": [
+          {
+            "contentList": [],
+            "enabled": false,
+            "_id": "5b472f75559f742715150719",
+            "contentTitle": "Anthropogenic (man-made) sources",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "contentType": "video",
+            "lessonId": "1.5",
+            "order": 1,
+            "createdAt": "2018-07-12T10:37:41.041Z",
+            "__v": 0
+          },
+          {
+            "contentList": [],
+            "enabled": false,
+            "_id": "5b472f75559f742715150737",
+            "contentTitle": "Cost of pollution",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "Pollution can also create costs for the firms producing the pollution. Sometimes firms choose, or are forced by regulation, to reduce the amount of pollution that they are producing. The associated costs of doing this are called abatement costs, or marginal abatement costs if measured by each additional unit.<br>However, goods and services that involve negative externalities in production, such as those that produce pollution, tend to be over-produced and underpriced since the externality is not being priced into the market",
+            "contentType": "text",
+            "lessonId": "1.5",
+            "order": 2,
+            "createdAt": "2018-07-12T10:37:41.064Z",
+            "__v": 0
+          },
+          {
+            "contentList": [
+              "http://jcsfirm.in/text/images/deontological-ethics-essay-winner-engines-65227-large.jpg",
+              "http://image.slidesharecdn.com/noisepollution-131227002334-phpapp02/95/noise-pollution-4-638.jpg?cbu003d1388104358"
+            ],
+            "enabled": false,
+            "_id": "5b472f75559f74271515070e",
+            "contentTitle": "Anthropogenic (man-made) sources",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "contentType": "image",
+            "lessonId": "1.5",
+            "order": 5,
+            "createdAt": "2018-07-12T10:37:41.018Z",
+            "__v": 0
+          }
+        ]
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f74271515070c",
+        "lessonId": "1.6",
+        "lessonName": "Thermal Pollution",
+        "lessonDescription": "It denotes the swift increase or drop off in hotness of a natural body of water which may be ocean, lake, river, sea or pond by human influence.",
+        "courseId": "1",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 6,
+        "createdAt": "2018-07-12T10:37:41.016Z",
+        "__v": 0,
+        "contents": [
+          {
+            "contentList": [],
+            "enabled": false,
+            "_id": "5b472f75559f74271515072d",
+            "contentTitle": "Cost of pollution",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "Pollution can also create costs for the firms producing the pollution. Sometimes firms choose, or are forced by regulation, to reduce the amount of pollution that they are producing. The associated costs of doing this are called abatement costs, or marginal abatement costs if measured by each additional unit.<br>However, goods and services that involve negative externalities in production, such as those that produce pollution, tend to be over-produced and underpriced since the externality is not being priced into the market",
+            "contentType": "text",
+            "lessonId": "1.6",
+            "order": 2,
+            "createdAt": "2018-07-12T10:37:41.055Z",
+            "__v": 0
+          },
+          {
+            "contentList": [],
+            "enabled": false,
+            "_id": "5b472f75559f742715150718",
+            "contentTitle": "Anthropogenic (man-made) sources",
+            "description": "These are mostly related to the burning of multiple types of fuel.",
+            "content": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "contentType": "video",
+            "lessonId": "1.6",
+            "order": 6,
+            "createdAt": "2018-07-12T10:37:41.041Z",
+            "__v": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "_id": "5b472f75559f742715150732",
+    "courseId": "2",
+    "courseName": "Light",
+    "description": "Light is electromagnetic radiation within a certain portion of the electromagnetic spectrum.",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 2,
+    "createdAt": "2018-07-12T10:37:41.057Z",
+    "__v": 0,
+    "updateAt": "2018-07-16T18:24:01.413Z",
+    "lessons": [
+      {
+        "enabled": true,
+        "_id": "5b472f75559f74271515070d",
+        "lessonId": "2.1",
+        "lessonName": "Electromagnetic spectrum and visible light",
+        "courseId": "2",
+        "lessonDescription": "Generally, EM radiation, or EMR (the designation radiation excludes static electric and magnetic and near fields), is classified by wavelength into radio, microwave, infrared, the visible region that we perceive as light, ultraviolet, X-rays and gamma rays.",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 11,
+        "createdAt": "2018-07-12T10:37:41.017Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": []
+      },
+      {
+        "enabled": true,
+        "_id": "5b472f75559f742715150716",
+        "lessonId": "2.2",
+        "lessonName": "Speed of light",
+        "lessonDescription": "The speed of light in a vacuum is defined to be exactly 299,792,458 m/s (approx. 186,282 miles per second). The fixed value of the speed of light in SI units results from the fact that the metre is now defined in terms of the speed of light. All forms of electromagnetic radiation move at exactly this same speed in vacuum.",
+        "courseId": "2",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 12,
+        "createdAt": "2018-07-12T10:37:41.028Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": []
+      },
+      {
+        "enabled": true,
+        "_id": "5b472f75559f742715150720",
+        "lessonId": "2.3",
+        "lessonName": "Optics",
+        "lessonDescription": "The study of light and the interaction of light and matter is termed optics. The observation and study of optical phenomena such as rainbows and the aurora borealis offer many clues as to the nature of light.",
+        "courseId": "2",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 13,
+        "createdAt": "2018-07-12T10:37:41.046Z",
+        "__v": 0,
+        "updateAt": "2018-07-16T18:24:01.426Z",
+        "contents": []
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f74271515072b",
+        "lessonId": "2.4",
+        "lessonName": "Light sources",
+        "lessonDescription": "There are many sources of light. A body at a given temperature emits a characteristic spectrum of black-body radiation. A simple thermal source is sunlight, the radiation emitted by the chromosphere of the Sun at around 6,000 kelvins (5,730 degrees Celsius; 10,340 degrees Fahrenheit) peaks in the visible region of the electromagnetic spectrum when plotted in wavelength units[18] and roughly 44% of sunlight energy that reaches the ground is visible.[19] Another example is incandescent light bulbs, which emit only around 10% of their energy as visible light and the remainder as infrared. A common thermal light source in history is the glowing solid particles in flames, but these also emit most of their radiation in the infrared, and only a fraction in the visible spectrum.",
+        "courseId": "2",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 14,
+        "createdAt": "2018-07-12T10:37:41.054Z",
+        "__v": 0,
+        "contents": []
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f742715150735",
+        "lessonId": "2.5",
+        "lessonName": "Units and measures",
+        "lessonDescription": "Light is measured with two main alternative sets of units: radiometry consists of measurements of light power at all wavelengths, while photometry measures light with wavelength weighted with respect to a standardised model of human brightness perception. Photometry is useful, for example, to quantify Illumination (lighting) intended for human use. The SI units for both systems are summarised in the following tables.",
+        "courseId": "2",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 15,
+        "createdAt": "2018-07-12T10:37:41.059Z",
+        "__v": 0,
+        "contents": []
+      }
+    ]
+  },
+  {
+    "enabled": false,
+    "_id": "5b472f75559f74271515070a",
+    "courseId": "3",
+    "courseName": "Heat",
+    "description": "In thermodynamics, heat is a type of energy transfer in which energy flows from a warmer substance or object to a colder one.",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 3,
+    "createdAt": "2018-07-12T10:37:41.007Z",
+    "__v": 0,
+    "lessons": [
+      {
+        "enabled": false,
+        "_id": "5b472f75559f74271515071f",
+        "lessonId": "3.1",
+        "lessonName": "Heat Capacity",
+        "courseId": "3",
+        "lessonDescription": "Different substances are affected to different magnitudes by the addition of heat. When a given amount of heat is added to different substances, their temperatures increase by different amounts. This proportionality constant between the heat Q that the object absorbs or loses and the resulting temperature change T of the object is known as the heat capacity C of an object.",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 8,
+        "createdAt": "2018-07-12T10:37:41.045Z",
+        "__v": 0,
+        "contents": []
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f74271515072a",
+        "lessonId": "3.2",
+        "lessonName": "Specific Heat Capacity",
+        "lessonDescription": "In the Ideal Gas Model, the intensive properties cv and cp are defined for pure, simple compressible substances as partial derivatives of the internal energy u(T, v) and enthalpy h(T, p), respectively",
+        "courseId": "3",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 9,
+        "createdAt": "2018-07-12T10:37:41.053Z",
+        "__v": 0,
+        "contents": []
+      },
+      {
+        "enabled": false,
+        "_id": "5b472f75559f742715150734",
+        "lessonId": "3.3",
+        "lessonName": "Latent Heat of Vaporization",
+        "lessonDescription": "In general, when a material changes phase from solid to liquid, or from liquid to gas a certain amount of energy is involved in this change of phase. In case of liquid to gas phase change, this amount of energy is known as the enthalpy of vaporization, (symbol ∆Hvap; unit: J) also known as the (latent) heat of vaporization or heat of evaporation. Latent heat is the amount of heat added to or removed from a substance to produce a change in phase.",
+        "courseId": "3",
+        "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+        "introMediaType": "video",
+        "order": 10,
+        "createdAt": "2018-07-12T10:37:41.059Z",
+        "__v": 0,
+        "contents": []
+      }
+    ]
+  },
+  {
+    "enabled": false,
+    "_id": "5b472f75559f742715150713",
+    "courseId": "4",
+    "courseName": "Atmosphere of Earth",
+    "description": "The atmosphere of Earth is the layer of gases, commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity. ",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 4,
+    "createdAt": "2018-07-12T10:37:41.021Z",
+    "__v": 0
+  },
+  {
+    "enabled": false,
+    "_id": "5b472f75559f74271515071d",
+    "courseId": "5",
+    "courseName": "Physical geography",
+    "description": "Physical geography (also known as geosystems or physiography) is one of the two major sub-fields of geography",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 5,
+    "createdAt": "2018-07-12T10:37:41.044Z",
+    "__v": 0
+  },
+  {
+    "enabled": false,
+    "_id": "5b472f75559f742715150728",
+    "courseId": "6",
+    "courseName": "Periodic table",
+    "description": "The periodic table is a tabular arrangement of the chemical elements, ordered by their atomic number, electron configuration, and recurring chemical properties, whose structure shows periodic trends.",
+    "introMediaURL": "http://techslides.com/demos/sample-videos/small.mp4",
+    "introMediaType": "video",
+    "order": 6,
+    "createdAt": "2018-07-12T10:37:41.053Z",
+    "__v": 0
+  }
+]
